@@ -19,14 +19,13 @@ title: Anasayfa
 
 Benim için teknoloji sadece kullanmak değil, **tasarlamaktır**.
 
-### [1. Donanım Mühendisliği & Gömülü Sistemler](../HARDWARE.tr)
+### [1. Donanım Mühendisliği & Gömülü Sistemler](./HARDWARE)
 ESP32, STM32 ve endüstriyel sensörler üzerine profesyonel mimariler ve rehberler.
-* *Öne Çıkan:* Endüstriyel UART, SPI DMA, CAN Bus Protokolleri.
 
-### [2. Altyapı ve Ağ Mimarisi](../INFRASTRUCTURE.tr)
+### [2. Altyapı ve Ağ Mimarisi](./INFRASTRUCTURE)
 Veri merkezleri, felaket kurtarma senaryoları ve yüksek güvenlikli ağ topolojileri.
 
-### [3. Stratejik Yönetim](../MANAGEMENT.tr)
+### [3. Stratejik Yönetim](./MANAGEMENT)
 Kamu kurumları için Performans Esaslı Bütçeleme ve Karar Destek Sistemleri (DSS).
 
 ---

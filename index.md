@@ -3,40 +3,44 @@ layout: default
 title: Home
 ---
 
-# 👋 Merhaba, Ben Aşkın KELEŞ.
+<div style="text-align: right;">
+  <a href="./tr/">🇹🇷 Türkçe Versiyon</a>
+</div>
 
-**Fizik Mühendisiyim.** Kariyerim boyunca mühendislikten Türkiye'nin kritik kurumlarında üst düzey yöneticiliğe kadar uzanan roller üstlendim.
+# 👋 Hello, I am Askin KELES.
 
-Özellikle son yıllarda **Gömülü Donanım Tasarımı** ve **Yazılım Mühendisliği** üzerine odaklanarak, hem yönetim stratejileri oluşturuyor hem de uçtan uca sistemleri (PCB, Firmware, Yazılım) aktif olarak geliştiriyorum.
+**I am a Physics Engineer.** Throughout my career, I have taken on roles ranging from engineering to senior executive positions in Türkiye's critical institutions.
 
----
-
-## 🛠️ Teknik Uzmanlık Alanlarım
-
-Benim için teknoloji sadece kullanmak değil, **tasarlamaktır**.
-
-### [1. Donanım Mühendisliği & Gömülü Sistemler](./HARDWARE)
-ESP32, STM32 ve endüstriyel sensörler üzerine profesyonel mimariler ve rehberler.
-* *Öne Çıkan:* Endüstriyel UART, SPI DMA, CAN Bus Protokolleri.
-
-### [2. Altyapı ve Ağ Mimarisi](./INFRASTRUCTURE)
-Veri merkezleri, felaket kurtarma senaryoları ve yüksek güvenlikli ağ topolojileri.
-
-### [3. Stratejik Yönetim](./MANAGEMENT)
-Kamu kurumları için Performans Esaslı Bütçeleme ve Karar Destek Sistemleri (DSS).
+Especially in recent years, focusing on **Embedded Hardware Design** and **Software Engineering**, I both formulate management strategies and actively develop end-to-end systems (PCB, Firmware, Software).
 
 ---
 
-## 🚀 Açık Kaynak Projelerim
+## 🛠️ Technical Expertise
 
-GitHub üzerinde yayınladığım, saha tecrübelerimi aktardığım rehberler:
+For me, technology is not just about using it, but **designing** it.
 
-| Proje | Açıklama |
+### [1. Hardware Engineering & Embedded Systems](./HARDWARE)
+Professional architectures and guides on ESP32, STM32, and industrial sensors.
+* *Highlights:* Industrial UART, SPI DMA, CAN Bus Protocols.
+
+### [2. Infrastructure & Network Architecture](./INFRASTRUCTURE)
+Data centers, disaster recovery scenarios, and high-security network topologies.
+
+### [3. Strategic Management](./MANAGEMENT)
+Performance-Based Budgeting and Decision Support Systems (DSS) for public institutions.
+
+---
+
+## 🚀 Open Source Projects
+
+My field-tested guides and repositories published on GitHub:
+
+| Project | Description |
 | :--- | :--- |
-| [**Embedded UART Guide**](https://github.com/askinkeles/Embedded-UART-Guide) | Endüstriyel RS-485 ve Ring Buffer yapıları. |
-| [**Embedded SPI Guide**](https://github.com/askinkeles/Embedded-SPI-Guide) | DMA ve Thread-Safe işlem yönetimi. |
-| [**Embedded CAN Bus**](https://github.com/askinkeles/Embedded-CANBus-Guide) | Otomotiv protokolleri ve donanımsal filtreleme. |
+| [**Embedded UART Guide**](https://github.com/askinkeles/Embedded-UART-Guide) | Industrial RS-485 and Ring Buffer structures. |
+| [**Embedded SPI Guide**](https://github.com/askinkeles/Embedded-SPI-Guide) | DMA and Thread-Safe transaction management. |
+| [**Embedded CAN Bus**](https://github.com/askinkeles/Embedded-CANBus-Guide) | Automotive protocols and hardware filtering. |
 
 ---
 
-<small>© 2026 Aşkın Keleş. Fizik Mühendisliği Disiplini ile tasarlanmıştır.</small>
+<small>© 2026 Askin Keles. Designed with the discipline of Physics Engineering.</small>

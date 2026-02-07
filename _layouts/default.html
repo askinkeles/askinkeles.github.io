@@ -10,34 +10,37 @@
     {% include head-custom.html %}
     
     <style>
-      /* Masaüstü (Sol Sütun) Ayarları */
+      /* Masaüstü ve Genel Ayarlar */
       header nav ul { 
         list-style-type: none; 
         padding: 0; 
         margin-top: 20px;
-        border-top: 1px solid rgba(255,255,255,0.2); /* Üst çizgi */
+        border-top: 2px solid #eee; /* İnce gri çizgi */
         padding-top: 20px;
       }
+      
       header nav ul li { 
         margin-bottom: 12px; 
       }
+      
       header nav ul li a { 
         text-decoration: none; 
-        font-weight: normal; 
-        /* !important ile temanın rengini eziyoruz: Beyaz yapıyoruz */
-        color: rgba(255, 255, 255, 0.8) !important; 
+        font-weight: bold; 
+        /* RENGİ DÜZELTTİK: Koyu Mavi/Gri (#333 veya #2980b9) */
+        color: #0059B3 !important; 
         display: block;
-        font-size: 0.95em;
+        font-size: 1em;
       }
+      
       header nav ul li a:hover { 
-        color: #ffffff !important; /* Üzerine gelince tam beyaz */
+        /* Üzerine gelince daha açık bir mavi olsun */
+        color: #007EC6 !important; 
         text-decoration: underline; 
       }
       
-      /* Mobil Görünüm Ayarları (Ekran küçülünce) */
+      /* Mobilde de aynı renkler geçerli olsun */
       @media (max-width: 48em) {
-         /* Mobilde arka plan beyaz olduğu için yazılar koyu olmalı */
-         header nav ul li a { color: #333 !important; }
+         header nav ul li a { color: #0059B3 !important; }
          header nav ul { border-top: 1px solid #ccc; }
       }
     </style>

@@ -1,0 +1,10 @@
+title: Aşkın KELEŞ
+description: Physics Engineer | Tech Leader | Solution Architect
+theme: jekyll-theme-minimal
+google_analytics: 
+show_downloads: false
+logo_url: https://github.com/askinkeles.png
+
+# Menü Linkleri (Sitenin üstünde veya yaninda görünecek)
+plugins:
+  - jekyll-seo-tag

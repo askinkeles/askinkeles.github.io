@@ -10,20 +10,35 @@
     {% include head-custom.html %}
     
     <style>
-      nav ul { list-style-type: none; padding: 0; }
-      nav ul li { margin-bottom: 10px; }
-      nav ul li a { 
-        text-decoration: none; 
-        font-weight: bold; 
-        color: #fff; /* Sol sütun koyu ise beyaz yazı */
-        display: block;
-        padding: 5px 0;
+      /* Masaüstü (Sol Sütun) Ayarları */
+      header nav ul { 
+        list-style-type: none; 
+        padding: 0; 
+        margin-top: 20px;
+        border-top: 1px solid rgba(255,255,255,0.2); /* Üst çizgi */
+        padding-top: 20px;
       }
-      nav ul li a:hover { color: #ccc; text-decoration: underline; }
+      header nav ul li { 
+        margin-bottom: 12px; 
+      }
+      header nav ul li a { 
+        text-decoration: none; 
+        font-weight: normal; 
+        /* !important ile temanın rengini eziyoruz: Beyaz yapıyoruz */
+        color: rgba(255, 255, 255, 0.8) !important; 
+        display: block;
+        font-size: 0.95em;
+      }
+      header nav ul li a:hover { 
+        color: #ffffff !important; /* Üzerine gelince tam beyaz */
+        text-decoration: underline; 
+      }
       
-      /* Mobilde menü düzeni */
+      /* Mobil Görünüm Ayarları (Ekran küçülünce) */
       @media (max-width: 48em) {
-         nav ul li a { color: #333; } /* Mobilde arka plan beyaz olacağı için siyah yazı */
+         /* Mobilde arka plan beyaz olduğu için yazılar koyu olmalı */
+         header nav ul li a { color: #333 !important; }
+         header nav ul { border-top: 1px solid #ccc; }
       }
     </style>
   </head>
@@ -34,16 +49,23 @@
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <br>
         <nav>
-          <ul>
-            <li><a href="{{ "/" | relative_url }}">🏠 Home / Anasayfa</a></li>
-            <li><a href="{{ "/HARDWARE/" | relative_url }}">🧱 Hardware Engineering</a></li>
-            <li><a href="{{ "/INFRASTRUCTURE/" | relative_url }}">🌐 Infrastructure & Network</a></li>
-            <li><a href="{{ "/MANAGEMENT/" | relative_url }}">💼 Executive Management</a></li>
-          </ul>
+          {% if page.url contains '/tr/' %}
+            <ul>
+              <li><a href="{{ '/tr/' | relative_url }}">🏠 Anasayfa</a></li>
+              <li><a href="{{ '/tr/HARDWARE/' | relative_url }}">🧱 Donanım Müh.</a></li>
+              <li><a href="{{ '/tr/INFRASTRUCTURE/' | relative_url }}">🌐 Altyapı & Ağ</a></li>
+              <li><a href="{{ '/tr/MANAGEMENT/' | relative_url }}">💼 Yönetim</a></li>
+            </ul>
+          {% else %}
+            <ul>
+              <li><a href="{{ '/' | relative_url }}">🏠 Home</a></li>
+              <li><a href="{{ '/HARDWARE/' | relative_url }}">🧱 Hardware Eng.</a></li>
+              <li><a href="{{ '/INFRASTRUCTURE/' | relative_url }}">🌐 Infrastructure</a></li>
+              <li><a href="{{ '/MANAGEMENT/' | relative_url }}">💼 Management</a></li>
+            </ul>
+          {% endif %}
         </nav>
-        <br>
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_name }}</small></a></p>
         {% endif %}
@@ -59,7 +81,11 @@
 
       </section>
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p>
+          {% if site.github.is_user_page %}
+            <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
+          {% endif %}
+        </p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

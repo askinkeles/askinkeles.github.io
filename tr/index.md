@@ -57,13 +57,13 @@ Mühendislik yaklaşımımı şu üç temel üzerine kurarım:
 
 ## 🏛️ Çalışma Alanları ve Portfolyo
 
-### 🧱 [1. Teknik Uzmanlık Alanları (Engineering & Embedded)](../HARDWARE/README.tr.md)
+### 🧱 [1. Teknik Uzmanlık Alanları (Engineering & Embedded)](../HARDWARE/README.tr)
 Karmaşık mühendislik problemlerine karşı geliştirdiğim yapısal çözümleri ve **fizik mühendisliği disipliniyle** harmanlanmış mimari yaklaşımları içerir.
 
-### 🤖 [2. Teknoloji ve İnovasyon (Technology & Innovation)](../INNOVATION/README.tr.md)
+### 🤖 [2. Teknoloji ve İnovasyon (Technology & Innovation)](../INNOVATION/README.tr)
 Geleneksel süreçleri **modern Yapay Zeka (AI)** ve otomasyon araçlarıyla nasıl dönüştürdüğümü ve geleceğin teknolojilerini paylaşıyorum.
 
-### 💼 [3. Stratejik Yönetim ve Liderlik (Strategic Management & Leadership)](../STRATEGY/README.tr.md)
+### 💼 [3. Stratejik Yönetim ve Liderlik (Strategic Management & Leadership)](../STRATEGY/README.tr)
 Kamu yönetiminden teknoloji liderliğine uzanan kariyerimde kullandığım **stratejik karar modellerini** ve yönetim felsefemi içerir.
 
 ---

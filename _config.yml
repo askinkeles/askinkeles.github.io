@@ -1,10 +1,18 @@
+# Menü Linkleri (Sitenin üstünde veya yaninda görünecek)
+plugins:
+  - jekyll-seo-tag
 title: Aşkın KELEŞ
-description: Physics Engineer | Tech Leader | Solution Architect
+description: Fizik Mühendisi | Teknoloji Lideri | Çözüm Mimarı
 theme: jekyll-theme-minimal
+logo: https://github.com/askinkeles.png
 google_analytics: 
 show_downloads: false
-logo_url: https://github.com/askinkeles.png
 
-# Menü Linkleri (Sitenin üstünde veya yaninda görünecek)
+# Sosyal Medya ve İletişim (Minimal tema destekliyorsa yan menüde görünür)
+social:
+  links:
+    - https://www.linkedin.com/in/askinkeles
+    - https://github.com/askinkeles
+
 plugins:
   - jekyll-seo-tag

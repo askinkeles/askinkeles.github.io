@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stratejik Yönetim
+lang: tr
 ---
 
 <div align="center">

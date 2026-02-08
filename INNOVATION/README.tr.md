@@ -1,6 +1,7 @@
 ---
 layout: default
 title: İnovasyon
+lang: tr
 ---
 
 <div align="center">

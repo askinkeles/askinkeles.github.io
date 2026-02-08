@@ -57,13 +57,13 @@ I build my engineering approach on three main pillars:
 
 ## 🏛️ Work Areas and Portfolio
 
-### 🧱 [1. Technical Expertise (Engineering & Embedded)](./HARDWARE/README.md)
+### 🧱 [1. Technical Expertise (Engineering & Embedded)](./HARDWARE/README)
 This section brings together structural solutions, architectural approaches, and a meticulous documentation culture developed against complex engineering problems.
 
-### 🤖 [2. Technology and Innovation (AI & Transformation)](./INNOVATION/README.md)
+### 🤖 [2. Technology and Innovation (AI & Transformation)](./INNOVATION/README)
 I transform traditional engineering processes with **modern AI** and automation tools, focusing on next-generation solutions that simplify complexity.
 
-### 💼 [3. Strategic Management & Leadership (Executive & Strategy)](./STRATEGY/README.md)
+### 💼 [3. Strategic Management & Leadership (Executive & Strategy)](./STRATEGY/README)
 Management is the art of setting the system's course with data-driven strategic insights. This section covers **strategic decision models** and leadership principles.
 
 ---

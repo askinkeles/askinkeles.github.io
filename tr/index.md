@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Anasayfa
+lang: tr
 ---
 
 <div align="center">

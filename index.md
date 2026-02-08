@@ -1,46 +1,75 @@
----
-layout: default
-title: Home
----
-
-<div style="text-align: right;">
-  <a href="./tr/">🇹🇷 Türkçe Versiyon</a>
-</div>
-
-# 👋 Hello, I am Askin KELES.
-
-**I am a Physics Engineer.** Throughout my career, I have taken on roles ranging from engineering to senior executive positions in Türkiye's critical institutions.
-
-Especially in recent years, focusing on **Embedded Hardware Design** and **Software Engineering**, I both formulate management strategies and actively develop end-to-end systems (PCB, Firmware, Software).
+# Aşkın KELEŞ
+### Physics Engineer | Tech Leader | Solution Architect
 
 ---
 
-## 🛠️ Technical Expertise
+## 🌍 Welcome / Hoş Geldiniz
 
-For me, technology is not just about using it, but **designing** it.
-
-### [1. Hardware Engineering & Embedded Systems](./HARDWARE)
-Professional architectures and guides on ESP32, STM32, and industrial sensors.
-* *Highlights:* Industrial UART, SPI DMA, CAN Bus Protocols.
-
-### [2. Infrastructure & Network Architecture](./INFRASTRUCTURE)
-Data centers, disaster recovery scenarios, and high-security network topologies.
-
-### [3. Strategic Management](./MANAGEMENT)
-Performance-Based Budgeting and Decision Support Systems (DSS) for public institutions.
+[English Version](#english-version) | [Türkçe Versiyon](#türkçe-versiyon)
 
 ---
 
-## 🚀 Open Source Projects
+<a name="english-version"></a>
+# English Version
 
-My field-tested guides and repositories published on GitHub:
+Executive and Engineer based in Ankara, Türkiye; with **years of experience** in IT Infrastructure, Network Security, and the Design/Management of Large-Scale Public Projects.
 
-| Project | Description |
-| :--- | :--- |
-| [**Embedded UART Guide**](https://github.com/askinkeles/Embedded-UART-Guide) | Industrial RS-485 and Ring Buffer structures. |
-| [**Embedded SPI Guide**](https://github.com/askinkeles/Embedded-SPI-Guide) | DMA and Thread-Safe transaction management. |
-| [**Embedded CAN Bus**](https://github.com/askinkeles/Embedded-CANBus-Guide) | Automotive protocols and hardware filtering. |
+> *Active developer passionate about **Embedded Systems**, **Hardware Design**, and **Software Engineering**.*
+
+### 🏛️ Work Areas and Portfolio
+
+#### 🧱 [1. Technical Expertise (Engineering & Embedded)](./expertise.md)
+This section brings together structural solutions, architectural approaches, and a meticulous documentation culture developed against complex engineering problems. Here, you will find not just lines of code, but an engineering philosophy blended with **Physics Engineering discipline** and sustainable system design methodologies.
+
+#### 🤖 [2. Technology and Innovation (AI & Transformation)](./innovation.md)
+For me, technology is not an end but a lever that multiplies human capability. I transform traditional engineering processes with **modern AI** and automation tools, focusing on next-generation solutions that simplify complexity and maximize efficiency.
+
+#### 💼 [3. Strategic Management & Leadership (Executive & Strategy)](./strategy.md)
+Management is the art of setting the system's course with data-driven strategic insights. This section covers **strategic decision models**, performance-based budgeting, and leadership principles applied while managing complex organizational structures.
 
 ---
 
-<small>© 2026 Askin Keles. Designed with the discipline of Physics Engineering.</small>
+<a name="türkçe-versiyon"></a>
+# Türkçe Versiyon
+
+Ankara merkezli; BT Altyapısı, Ağ Güvenliği ve Büyük Ölçekli Kamu Projelerinin Tasarımı/Yönetimi konularında **yılların tecrübesine** sahip Yönetici ve Mühendis.
+
+> *Gömülü Sistemler, Donanım Tasarımı ve Yazılım Mühendisliği tutkunu, aktif bir geliştirici.*
+
+### 🏛️ Çalışma Alanları ve Portfolyo
+
+#### 🧱 [1. Teknik Uzmanlık Alanları (Engineering & Embedded)](./expertise.md)
+Bu bölüm, karmaşık mühendislik problemlerine karşı geliştirdiğim yapısal çözümleri ve mimari yaklaşımları içerir. Burada sadece kodları değil; **fizik mühendisliği disipliniyle harmanlanmış** bir mühendislik felsefesini ve sürdürülebilir sistem tasarım metodolojilerini bulacaksınız.
+
+#### 🤖 [2. Teknoloji ve İnovasyon (Technology & Innovation)](./innovation.md)
+Teknoloji benim için bir amaç değil, insan yetkinliğini artıran bir kaldıraçtır. Geleneksel mühendislik süreçlerini **modern Yapay Zeka (AI)** ve otomasyon araçlarıyla nasıl dönüştürdüğümü ve geleceğin teknolojilerini bugünün sistemlerine nasıl entegre ettiğimi paylaşıyorum.
+
+#### 💼 [3. Stratejik Yönetim ve Liderlik (Strategic Management & Leadership)](./strategy.md)
+Yönetim, veriye dayalı stratejik öngörülerle sistemin rotasını belirleme sanatıdır. Bu bölümde, kamu yönetiminden teknoloji liderliğine uzanan kariyer yolculuğumda uyguladığım **stratejik karar modellerini**, bütçeleme yaklaşımlarımı ve yönetim felsefemi bulacaksınız.
+
+---
+
+## 📊 GitHub Stats & Active Development
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=askinkeles&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Askin's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askinkeles&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contact / İletişim
+
+* 💼 **LinkedIn:** [linkedin.com/in/askinkeles](https://www.linkedin.com/in/askinkeles/)
+* 📧 **Email:** askinkeles@gmail.com
+
+---
+
+<p align="center">
+  <i>"Anything that can be measured can be improved; anything that is understood can be managed."</i>
+  <br>
+  <i>"Ölçülebilen her şey geliştirilebilir; anlaşılan her şey yönetilebilir."</i>
+  <br><br>
+  <b>© 2026 Aşkın KELEŞ. Coded with Physics Engineering Discipline.</b>
+</p>

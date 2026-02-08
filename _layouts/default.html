@@ -26,14 +26,12 @@
       header nav ul li a { 
         text-decoration: none; 
         font-weight: bold; 
-        /* RENGİ DÜZELTTİK: Koyu Mavi/Gri (#333 veya #2980b9) */
         color: #0059B3 !important; 
         display: block;
-        font-size: 1em;
+        font-size: 0.95em; /* Biraz daha kompakt font */
       }
       
       header nav ul li a:hover { 
-        /* Üzerine gelince daha açık bir mavi olsun */
         color: #007EC6 !important; 
         text-decoration: underline; 
       }
@@ -56,22 +54,19 @@
           {% if page.url contains '/tr/' %}
             <ul>
               <li><a href="{{ '/tr/' | relative_url }}">🏠 Anasayfa</a></li>
-              <li><a href="{{ '/tr/HARDWARE/' | relative_url }}">🧱 Donanım Müh.</a></li>
-              <li><a href="{{ '/tr/INFRASTRUCTURE/' | relative_url }}">🌐 Altyapı & Ağ</a></li>
-              <li><a href="{{ '/tr/MANAGEMENT/' | relative_url }}">💼 Yönetim</a></li>
+              <li><a href="{{ '/HARDWARE/README.tr.md' | relative_url }}">🧱 Teknik Uzmanlık</a></li>
+              <li><a href="{{ '/INNOVATION/README.tr.md' | relative_url }}">🤖 İnovasyon</a></li>
+              <li><a href="{{ '/STRATEGY/README.tr.md' | relative_url }}">💼 Strateji</a></li>
             </ul>
           {% else %}
             <ul>
               <li><a href="{{ '/' | relative_url }}">🏠 Home</a></li>
-              <li><a href="{{ '/HARDWARE/' | relative_url }}">🧱 Hardware Eng.</a></li>
-              <li><a href="{{ '/INFRASTRUCTURE/' | relative_url }}">🌐 Infrastructure</a></li>
-              <li><a href="{{ '/MANAGEMENT/' | relative_url }}">💼 Management</a></li>
+              <li><a href="{{ '/HARDWARE/README.md' | relative_url }}">🧱 Expertise</a></li>
+              <li><a href="{{ '/INNOVATION/README.md' | relative_url }}">🤖 Innovation</a></li>
+              <li><a href="{{ '/STRATEGY/README.md' | relative_url }}">💼 Strategy</a></li>
             </ul>
           {% endif %}
         </nav>
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_name }}</small></a></p>
-        {% endif %}
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -85,9 +80,7 @@
       </section>
       <footer>
         <p>
-          {% if site.github.is_user_page %}
-            <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
-          {% endif %}
+          <small>© 2026 Aşkın KELEŞ. <br> Coded with Physics Engineering Discipline.</small>
         </p>
       </footer>
     </div>

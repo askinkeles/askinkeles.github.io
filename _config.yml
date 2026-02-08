@@ -1,18 +1,18 @@
-# Menü Linkleri (Sitenin üstünde veya yaninda görünecek)
-plugins:
-  - jekyll-seo-tag
 title: Aşkın KELEŞ
 description: Fizik Mühendisi | Teknoloji Lideri | Çözüm Mimarı
+url: "https://askinkeles.github.io"
+baseurl: "" # Kök dizin için boş bırakıyoruz
 theme: jekyll-theme-minimal
 logo: https://github.com/askinkeles.png
 google_analytics: 
 show_downloads: false
 
-# Sosyal Medya ve İletişim (Minimal tema destekliyorsa yan menüde görünür)
+# Sosyal Medya ve İletişim
 social:
   links:
     - https://www.linkedin.com/in/askinkeles
     - https://github.com/askinkeles
 
+# Eklentiler (Burada tekrarı kaldırdık)
 plugins:
   - jekyll-seo-tag

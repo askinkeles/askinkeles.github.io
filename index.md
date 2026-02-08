@@ -4,10 +4,10 @@ title: Home
 ---
 
 <div align="center">
-  <a href="tr/index.md">
+  <a href="{{ '/tr/' | relative_url }}">
     <img src="https://img.shields.io/badge/Language-Türkçe-E31E24?style=for-the-badge&logo=turkey&logoColor=white" alt="Turkish Version"/>
   </a>
-  <a href="index.md">
+  <a href="{{ '/' | relative_url }}">
     <img src="https://img.shields.io/badge/Language-English-007EC6?style=for-the-badge&logo=us&logoColor=white" alt="English Version"/>
   </a>
 

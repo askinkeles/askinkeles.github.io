@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teknik Uzmanlık
+lang: tr
 ---
 
 <div align="center">

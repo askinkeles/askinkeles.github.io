@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 <div align="center">
   <a href="tr/index.md">
     <img src="https://img.shields.io/badge/Language-Türkçe-E31E24?style=for-the-badge&logo=turkey&logoColor=white" alt="Turkish Version"/>

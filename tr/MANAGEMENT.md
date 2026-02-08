@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Yönetim
+lang: tr
 permalink: /tr/MANAGEMENT/
 ---
 

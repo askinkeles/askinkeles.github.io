@@ -1,55 +1,69 @@
-# Aşkın KELEŞ
-### Physics Engineer | Tech Leader | Solution Architect
+<div align="center">
+  <a href="tr/index.md">
+    <img src="https://img.shields.io/badge/Language-Türkçe-E31E24?style=for-the-badge&logo=turkey&logoColor=white" alt="Turkish Version"/>
+  </a>
+  <a href="index.md">
+    <img src="https://img.shields.io/badge/Language-English-007EC6?style=for-the-badge&logo=us&logoColor=white" alt="English Version"/>
+  </a>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0059B3,100:007EC6&height=260&section=header&text=A%C5%9Fk%C4%B1n%20KELE%C5%9E&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Physics%20Engineer%20%7C%20Tech%20Leader%20%7C%20Solution%20Architect&descSize=20&descAlign=50&descAlignY=55&descColor=ffffff" />
+  
+  <h3>🚀 Tech Leader & Solution Architect</h3>
+  
+  <p align="center">
+    Executive and Engineer based in Ankara, Türkiye; with <b>years of experience</b> in IT Infrastructure, Network Security, and the Design/Management of Large-Scale Public Projects.
+    <br><br>
+    <i>Also an active developer passionate about <b>Embedded Systems</b>, <b>Hardware Design</b>, and <b>Software Engineering</b>.</i>
+  </p>
+
+  <a href="mailto:askinkeles@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/askinkeles">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <br><br>
+
+  <a href="https://github.com/askinkeles?tab=repositories">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT"/>
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=askinkeles.askinkeles" alt="visitors"/>
+  <a href="https://github.com/askinkeles?tab=followers">
+    <img src="https://img.shields.io/github/followers/askinkeles?label=Followers&style=flat-square&color=181717" alt="GitHub Followers"/>
+  </a>
+</div>
 
 ---
 
-## 🌍 Welcome / Hoş Geldiniz
+### 👨‍💻 About Me & Professional Vision
 
-[English Version](#english-version) | [Türkçe Versiyon](#türkçe-versiyon)
+**I am a Physics Engineer.** Throughout my career, I have taken on roles ranging from engineering to senior management in critical Turkish institutions. In recent years, focusing on **Embedded Hardware Design** and **Software Engineering**, I both create management strategies and actively develop end-to-end systems (PCB, Firmware, Software).
 
----
+I build my engineering approach on three main pillars:
 
-<a name="english-version"></a>
-# English Version
-
-Executive and Engineer based in Ankara, Türkiye; with **years of experience** in IT Infrastructure, Network Security, and the Design/Management of Large-Scale Public Projects.
-
-> *Active developer passionate about **Embedded Systems**, **Hardware Design**, and **Software Engineering**.*
-
-### 🏛️ Work Areas and Portfolio
-
-#### 🧱 [1. Technical Expertise (Engineering & Embedded)](./expertise.md)
-This section brings together structural solutions, architectural approaches, and a meticulous documentation culture developed against complex engineering problems. Here, you will find not just lines of code, but an engineering philosophy blended with **Physics Engineering discipline** and sustainable system design methodologies.
-
-#### 🤖 [2. Technology and Innovation (AI & Transformation)](./innovation.md)
-For me, technology is not an end but a lever that multiplies human capability. I transform traditional engineering processes with **modern AI** and automation tools, focusing on next-generation solutions that simplify complexity and maximize efficiency.
-
-#### 💼 [3. Strategic Management & Leadership (Executive & Strategy)](./strategy.md)
-Management is the art of setting the system's course with data-driven strategic insights. This section covers **strategic decision models**, performance-based budgeting, and leadership principles applied while managing complex organizational structures.
+* **Technical Depth:** From Client/Server architectures to **Embedded Systems**, from **AI algorithms** to **Network Security**; I am on the side that *designs* technology, not just uses it.
+* **Strategic Management:** By establishing Strategic Planning and Decision Support Systems, I ensure that institutions are managed with a data-driven approach.
+* **Solution Architecture:** My core principle is to produce lean, user-centric, and sustainable **practical solutions** for complex problems.
 
 ---
 
-<a name="türkçe-versiyon"></a>
-# Türkçe Versiyon
+## 🏛️ Work Areas and Portfolio
 
-Ankara merkezli; BT Altyapısı, Ağ Güvenliği ve Büyük Ölçekli Kamu Projelerinin Tasarımı/Yönetimi konularında **yılların tecrübesine** sahip Yönetici ve Mühendis.
+### 🧱 [1. Technical Expertise (Engineering & Embedded)](./HARDWARE/README.md)
+This section brings together structural solutions, architectural approaches, and a meticulous documentation culture developed against complex engineering problems.
 
-> *Gömülü Sistemler, Donanım Tasarımı ve Yazılım Mühendisliği tutkunu, aktif bir geliştirici.*
+### 🤖 [2. Technology and Innovation (AI & Transformation)](./INNOVATION/README.md)
+I transform traditional engineering processes with **modern AI** and automation tools, focusing on next-generation solutions that simplify complexity.
 
-### 🏛️ Çalışma Alanları ve Portfolyo
-
-#### 🧱 [1. Teknik Uzmanlık Alanları (Engineering & Embedded)](./expertise.md)
-Bu bölüm, karmaşık mühendislik problemlerine karşı geliştirdiğim yapısal çözümleri ve mimari yaklaşımları içerir. Burada sadece kodları değil; **fizik mühendisliği disipliniyle harmanlanmış** bir mühendislik felsefesini ve sürdürülebilir sistem tasarım metodolojilerini bulacaksınız.
-
-#### 🤖 [2. Teknoloji ve İnovasyon (Technology & Innovation)](./innovation.md)
-Teknoloji benim için bir amaç değil, insan yetkinliğini artıran bir kaldıraçtır. Geleneksel mühendislik süreçlerini **modern Yapay Zeka (AI)** ve otomasyon araçlarıyla nasıl dönüştürdüğümü ve geleceğin teknolojilerini bugünün sistemlerine nasıl entegre ettiğimi paylaşıyorum.
-
-#### 💼 [3. Stratejik Yönetim ve Liderlik (Strategic Management & Leadership)](./strategy.md)
-Yönetim, veriye dayalı stratejik öngörülerle sistemin rotasını belirleme sanatıdır. Bu bölümde, kamu yönetiminden teknoloji liderliğine uzanan kariyer yolculuğumda uyguladığım **stratejik karar modellerini**, bütçeleme yaklaşımlarımı ve yönetim felsefemi bulacaksınız.
+### 💼 [3. Strategic Management & Leadership (Executive & Strategy)](./STRATEGY/README.md)
+Management is the art of setting the system's course with data-driven strategic insights. This section covers **strategic decision models** and leadership principles.
 
 ---
 
-## 📊 GitHub Stats & Active Development
+### 📊 GitHub Stats & Active Development
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=askinkeles&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Askin's GitHub stats" />
@@ -59,17 +73,8 @@ Yönetim, veriye dayalı stratejik öngörülerle sistemin rotasını belirleme 
 
 ---
 
-## 📫 Contact / İletişim
-
-* 💼 **LinkedIn:** [linkedin.com/in/askinkeles](https://www.linkedin.com/in/askinkeles/)
-* 📧 **Email:** askinkeles@gmail.com
-
----
-
 <p align="center">
   <i>"Anything that can be measured can be improved; anything that is understood can be managed."</i>
-  <br>
-  <i>"Ölçülebilen her şey geliştirilebilir; anlaşılan her şey yönetilebilir."</i>
   <br><br>
-  <b>© 2026 Aşkın KELEŞ. Coded with Physics Engineering Discipline.</b>
+  <b>© 2026 Aşkın Keleş. Coded with Physics Engineering Discipline.</b>
 </p>
